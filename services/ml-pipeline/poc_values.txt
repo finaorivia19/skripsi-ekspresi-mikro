@@ -1,0 +1,5 @@
+Point of Control (POC) Values:
+============================
+
+Mouth: (301, 347)
+Eyebrows: (300, 62)
